@@ -73,6 +73,10 @@
         android:layout_marginTop="30dp"
 
         android:text="Create Account"
-        android:textSize="25dp" />
+        android:textSize="25dp"
+        android:background="@drawable/buttons"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        />
 
 </RelativeLayout>
